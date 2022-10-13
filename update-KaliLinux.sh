@@ -14,5 +14,5 @@ echo -e "\e[1;36m[+] Cleaning Kali. Please wait.\e[0m"
 
 
 apt-get autoclean -y > /dev/null && apt-get clean -y > /dev/null
-<adeleon415"
 
+echo -e "\e[1;36m[+] Kali is now less dirty... Follow me on Twitter @MohsenJamall"
