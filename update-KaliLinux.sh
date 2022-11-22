@@ -40,6 +40,7 @@ function Main {
 
 Main 
 
+echo -e "\e[1;36m[+] Kali is now less dirty... Follow me on Twitter @MohsenJamall"
+
 exit 0
 
-echo -e "\e[1;36m[+] Kali is now less dirty... Follow me on Twitter @MohsenJamall"
