@@ -1,2 +1,2 @@
 # KaliLinux-Update
-Script to Automatically Update Kali-Linux 
+Script Automatically Update Kali-Linux 
