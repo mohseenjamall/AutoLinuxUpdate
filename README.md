@@ -134,7 +134,7 @@ This script is released under the MIT License - see the LICENSE file for details
 
 ## Author
 
-Created by [Your Name]
+Created by [BLAXRAVEN]
 
 ---
 
